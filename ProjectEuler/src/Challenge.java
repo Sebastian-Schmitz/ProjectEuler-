@@ -14,5 +14,6 @@ public class Challenge {
 	public void problemx(){
 		
 		System.out.println("solution");
+		System.out.println("solution");
 	}
 }
