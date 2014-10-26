@@ -8,5 +8,8 @@ public class ProjectEuler {
 		Challenge challenge = new Challenge("number1");
 		challenge.printSolution();
 		
+		challenge.problemx();
 	}
+	
+	
 }

@@ -10,4 +10,9 @@ public class Challenge {
 	public void printSolution(){
 		System.out.println("solution goes here");
 	}
+	
+	public void problemx(){
+		
+		System.out.println("solution");
+	}
 }
